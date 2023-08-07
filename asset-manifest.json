@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-portfolio/static/css/main.47c88703.css",
+    "main.js": "/React-portfolio/static/js/main.688dc31f.js",
+    "static/media/cover-image.jpg": "/React-portfolio/static/media/cover-image.3f4b8a47f17655a4ac17.jpg",
+    "static/media/pexels-johannes-plenio-1118873.jpg": "/React-portfolio/static/media/pexels-johannes-plenio-1118873.bd59187a29badb40b4b2.jpg",
+    "static/media/notetaker.jpg": "/React-portfolio/static/media/notetaker.bf0448a3d413c655d015.jpg",
+    "static/media/JATE.png": "/React-portfolio/static/media/JATE.6d8c733fd95322c79207.png",
+    "static/media/UFO-getty-Dec16-scaled-e1671232331151.webp": "/React-portfolio/static/media/UFO-getty-Dec16-scaled-e1671232331151.ddb7da76a1782a3836c7.webp",
+    "static/media/employee-time-tracking.png": "/React-portfolio/static/media/employee-time-tracking.80a90a5f747a9973f003.png",
+    "static/media/Types-of-eCommerce-Websites-1024x538.jpg": "/React-portfolio/static/media/Types-of-eCommerce-Websites-1024x538.58490388b73510a0bbed.jpg",
+    "static/media/Imageofme.jpeg": "/React-portfolio/static/media/Imageofme.f1568066082a6d14c2f5.jpeg",
+    "index.html": "/React-portfolio/index.html",
+    "main.47c88703.css.map": "/React-portfolio/static/css/main.47c88703.css.map",
+    "main.688dc31f.js.map": "/React-portfolio/static/js/main.688dc31f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47c88703.css",
+    "static/js/main.688dc31f.js"
+  ]
+}
